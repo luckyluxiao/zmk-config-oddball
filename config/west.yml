@@ -6,6 +6,7 @@ manifest:
       url-base: https://github.com/badjeff
     - name: tokyo2006
       url-base: https://github.com/tokyo2006
+      
   projects:
     - name: zmk
       remote: zmkfirmware
